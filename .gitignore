@@ -3,7 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 Windows
-.zip
+*.zip
 .vscode
 .vs
 *.VC.db
